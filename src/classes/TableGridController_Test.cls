@@ -84,7 +84,7 @@ public class TableGridController_Test {
     // TEST HELPER
     
     @TestVisible
-    private final static String TESTUSER_PROFILE = 'System Administrator';
+    private final static String TESTUSER_PROFILE = 'AdminPersonalizado';
     @TestVisible
     private final static String ACCESSIBLE_SOBJECT = 'TableGridAccessible__c';
     @TestVisible
